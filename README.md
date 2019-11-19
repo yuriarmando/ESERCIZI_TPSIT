@@ -15,8 +15,8 @@
  
  In alcuni esercizi manca :
  
-   printf("\n");
-   
+    printf("\n");
+    
     fflush(stdin);
     
     getch();
