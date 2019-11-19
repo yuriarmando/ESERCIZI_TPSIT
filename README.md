@@ -15,9 +15,11 @@
  
  In alcuni esercizi manca :
    printf("\n");
+   
     fflush(stdin);
+    
     getch();
     
  Gli esercizi in cui sono presenti queste linee di codice sono stati fatti con VisualStudio Code.
---------------------------------------------------------------------
+
 
